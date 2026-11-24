@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Mohammad Khalifeh 👋
 
-<!--
-**mohammadkh76/mohammadkh76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior full-stack developer based in Shiraz, Iran. Since 2016 I build web platforms with ASP.NET Core and Angular: multilingual websites, admin dashboards, healthcare and medical-tourism portals, and booking systems.
 
-Here are some ideas to get you started:
+## Open to
+- Remote full-stack roles
+- Relocation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+C# · ASP.NET Core · Angular · SQL Server · PostgreSQL · Python (Django / DRF)
+
+## Links
+- Portfolio: [mkcodestudio.com](https://mkcodestudio.com)
+- CV: [mkcodestudio.com/en/cv](https://mkcodestudio.com/en/cv)
+- Articles: [mkcodestudio.com/en/insights](https://mkcodestudio.com/en/insights)
+- LinkedIn: [Mohammad Khalifeh](https://www.linkedin.com/in/mohammad-khalifeh-a270b2133)
