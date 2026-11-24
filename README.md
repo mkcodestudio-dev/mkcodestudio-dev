@@ -1,16 +1,25 @@
-# Hi, I'm Mohammad Khalifeh 👋
+# Hi, I'm Mohammad
 
-Senior full-stack developer based in Shiraz, Iran. Since 2016 I build web platforms with ASP.NET Core and Angular: multilingual websites, admin dashboards, healthcare and medical-tourism portals, and booking systems.
+I'm a full-stack developer in Shiraz, Iran. I've been building web applications since 2016, mostly with ASP.NET Core on the backend and Angular on the front. Most of my work has been for healthcare and medical-tourism companies, with some e-commerce and real estate on the side: multilingual websites, admin dashboards and booking systems.
 
-## Open to
-- Remote full-stack roles
-- Relocation
+I like taking a project from an empty repository to production. At both Smart Behan and Crystal Software I did that with Angular and ASP.NET Core projects.
 
-## Stack
-C# · ASP.NET Core · Angular · SQL Server · PostgreSQL · Python (Django / DRF)
+My own site, mkcodestudio.com, is an Angular app with server-side rendering, available in English, Persian, German and Arabic.
 
-## Links
+## What I work with
+
+- Backend: C#, ASP.NET Core, Python (Django, DRF)
+- Frontend: Angular
+- Databases: SQL Server, PostgreSQL
+
+## What I'm looking for
+
+A full-stack role, remote or in Europe. I'm happy to relocate. I work in Persian and English.
+
+## Find me
+
 - Portfolio: [mkcodestudio.com](https://mkcodestudio.com)
 - CV: [mkcodestudio.com/en/cv](https://mkcodestudio.com/en/cv)
 - Articles: [mkcodestudio.com/en/insights](https://mkcodestudio.com/en/insights)
 - LinkedIn: [Mohammad Khalifeh](https://www.linkedin.com/in/mohammad-khalifeh-a270b2133)
+- Instagram: [@khalifeh_dev](https://www.instagram.com/khalifeh_dev/)
