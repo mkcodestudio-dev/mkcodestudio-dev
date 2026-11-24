@@ -1,6 +1,6 @@
 # Hi, I'm Mohammad
 
-I'm a full-stack developer in Shiraz, Iran. I've been building web applications since 2016, mostly with ASP.NET Core on the backend and Angular on the front. Most of my work has been for healthcare and medical-tourism companies, with some e-commerce and real estate on the side: multilingual websites, admin dashboards and booking systems.
+I'm a full-stack developer. I've been building web applications since 2016, mostly with ASP.NET Core on the backend and Angular on the front. Most of my work has been for healthcare and medical-tourism companies, with some e-commerce and real estate on the side: multilingual websites, admin dashboards and booking systems.
 
 I like taking a project from an empty repository to production. At both Smart Behan and Crystal Software I did that with Angular and ASP.NET Core projects.
 
